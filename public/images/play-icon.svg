@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Agency/Clients/Team" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00-Dashboard-04-Vector-Agency-6" transform="translate(-706.000000, -503.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(129.000000, 498.000000)">
+                <g id="Group-7" transform="translate(571.000000, 0.000000)">
+                    <path d="M17,5.05 L17,7.05 C21.39,7.59 24.5,11.58 23.96,15.97 C23.5,19.61 20.64,22.5 17,22.93 L17,24.93 C22.5,24.38 26.5,19.5 25.95,14 C25.5,9.25 21.73,5.5 17,5.03 L17,5.05 M9.67,22.74 C11.18,24 13.04,24.79 15,25 L15,23 C13.58,22.82 12.23,22.25 11.1,21.37 L9.67,22.74 M11.1,8.74 C12.22,7.84 13.57,7.26 15,7.06 L15,5.06 C13.05,5.25 11.19,6 9.67,7.26 L11.1,8.74 M9.69,10.1 L8.26,8.67 C7,10.19 6.25,12.04 6.05,14 L8.05,14 C8.24,12.58 8.8,11.23 9.69,10.1 M8.06,16 L6.06,16 C6.26,17.96 7.03,19.81 8.27,21.33 L9.69,19.9 C8.81,18.77 8.24,17.42 8.06,16 M14,19.5 L20,15 L14,10.5 L14,19.5 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Prospects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-Prospects-03-Detail" transform="translate(-798.000000, -574.000000)" fill="#BFC5D2" fill-rule="nonzero">
+            <g id="Group" transform="translate(470.000000, 91.000000)">
+                <g id="Group-4" transform="translate(28.000000, 475.000000)">
+                    <path d="M316,10 L315,10 L315,8 L313,8 L313,10 L305,10 L305,8 L303,8 L303,10 L302,10 C300.89,10 300,10.89 300,12 L300,26 C300,27.1 300.89,28 302,28 L316,28 C317.1,28 318,27.1 318,26 L318,12 C318,10.89 317.1,10 316,10 M316,26 L302,26 L302,15 L316,15 L316,26 M309,24 L309,22 L305,22 L305,19 L309,19 L309,17 L313,20.5 L309,24 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

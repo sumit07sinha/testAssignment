@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1178px" height="312px" viewBox="0 0 1178 312" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1150.63248" height="284.493177" rx="0.70877193"></rect>
+        <filter x="-2.1%" y="-6.2%" width="104.3%" height="117.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="19.3561148" y="9.47881481">27</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-5" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="70.3799189" y="9.47881481">28</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-7" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="126.476123" y="9.47881481">1</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-9" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="176.42828" y="9.47881481">2</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-11" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="228.073492" y="9.47881481">3</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-13" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="280.827605" y="9.47881481">4</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-15" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="330.647643" y="9.47881481">5</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-17" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="380.242638" y="9.47881481">6</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-19" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="430.230262" y="9.47881481">7</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-21" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="479.384748" y="9.47881481">8</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-23" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="529.247879" y="9.47881481">9</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-25" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="576.420071" y="9.47881481">10</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-27" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="627.001425" y="9.47881481">11</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-29" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="675.897351" y="9.47881481">12</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-31" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="725.4301" y="9.47881481">13</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-33" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="776.071751" y="9.47881481">14</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-35" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="825.891789" y="9.47881481">15</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-37" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="875.486784" y="9.47881481">16</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-39" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="925.474407" y="9.47881481">17</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-41" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="974.628893" y="9.47881481">18</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-43" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="1024.49202" y="9.47881481">19</tspan>
+        </text>
+        <filter x="-67.4%" y="-213.6%" width="234.7%" height="709.1%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-45" font-family="Rubik-Medium, Rubik" font-size="9.5762963" font-weight="400" letter-spacing="0.114915557" fill="#8F9FB2">
+            <tspan x="1072.49566" y="9.47881481">20</tspan>
+        </text>
+        <filter x="-115.5%" y="-272.7%" width="330.9%" height="893.4%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.356862745   0 0 0 0 1  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Agency/Clients/Team" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00-Dashboard-05-Vector-Agency-Team-4" transform="translate(-116.000000, -850.000000)">
+            <g id="Group-6" transform="translate(130.000000, 857.000000)">
+                <g id="Group-3">
+                    <g id="Group-2">
+                        <g id="Component/Card/Card-with-Header">
+                            <g id="Card">
+                                <g id="Element/Card/Base">
+                                    <g id="Card-Base" fill="black" fill-opacity="1">
+                                        <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    </g>
+                                    <rect id="Card-Base" stroke-opacity="0.08" stroke="#2E5BFF" stroke-width="0.70877193" fill="#FFFFFF" fill-rule="evenodd" x="0.354385965" y="0.354385965" width="1136.40702" height="288.024561" rx="0.70877193"></rect>
+                                </g>
+                                <g id="Top-Bar" transform="translate(17.010526, 22.680702)" font-family="Rubik-Regular, Rubik" font-size="9.21403509" font-weight="normal" letter-spacing="0.859976379">
+                                    <text id="Fleet-activity-map"></text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="graph" transform="translate(0.000000, 26.000000)">
+                    <g id="lines" transform="translate(0.000000, 43.487407)" stroke="#DFE2E8" stroke-linecap="square" stroke-width="0.598518519">
+                        <path d="M0.830800327,1.24177478 L1135.25136,1.24177478" id="6"></path>
+                        <path d="M0.830800327,38.4950183 L1135.25136,38.4950183" id="5"></path>
+                        <path d="M0.830800327,75.7482619 L1135.25136,75.7482619" id="4"></path>
+                        <path d="M0.830800327,113.001505 L1135.25136,113.001505" id="3"></path>
+                        <path d="M0.830800327,150.254749 L1135.25136,150.254749" id="2"></path>
+                        <path d="M0.830800327,187.507993 L1135.25136,187.507993" id="1"></path>
+                    </g>
+                    <g id="numbers_and_dates" transform="translate(11.791111, 238.604444)" fill="#8F9FB2" fill-opacity="1">
+                        <g id="27">
+                            <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                            <use xlink:href="#text-3"></use>
+                        </g>
+                        <g id="28">
+                            <use filter="url(#filter-6)" xlink:href="#text-5"></use>
+                            <use xlink:href="#text-5"></use>
+                        </g>
+                        <g id="1">
+                            <use filter="url(#filter-8)" xlink:href="#text-7"></use>
+                            <use xlink:href="#text-7"></use>
+                        </g>
+                        <g id="2">
+                            <use filter="url(#filter-10)" xlink:href="#text-9"></use>
+                            <use xlink:href="#text-9"></use>
+                        </g>
+                        <g id="3">
+                            <use filter="url(#filter-12)" xlink:href="#text-11"></use>
+                            <use xlink:href="#text-11"></use>
+                        </g>
+                        <g id="4">
+                            <use filter="url(#filter-14)" xlink:href="#text-13"></use>
+                            <use xlink:href="#text-13"></use>
+                        </g>
+                        <g id="5">
+                            <use filter="url(#filter-16)" xlink:href="#text-15"></use>
+                            <use xlink:href="#text-15"></use>
+                        </g>
+                        <g id="6">
+                            <use filter="url(#filter-18)" xlink:href="#text-17"></use>
+                            <use xlink:href="#text-17"></use>
+                        </g>
+                        <g id="7">
+                            <use filter="url(#filter-20)" xlink:href="#text-19"></use>
+                            <use xlink:href="#text-19"></use>
+                        </g>
+                        <g id="8">
+                            <use filter="url(#filter-22)" xlink:href="#text-21"></use>
+                            <use xlink:href="#text-21"></use>
+                        </g>
+                        <g id="9">
+                            <use filter="url(#filter-24)" xlink:href="#text-23"></use>
+                            <use xlink:href="#text-23"></use>
+                        </g>
+                        <g id="10">
+                            <use filter="url(#filter-26)" xlink:href="#text-25"></use>
+                            <use xlink:href="#text-25"></use>
+                        </g>
+                        <g id="11">
+                            <use filter="url(#filter-28)" xlink:href="#text-27"></use>
+                            <use xlink:href="#text-27"></use>
+                        </g>
+                        <g id="12">
+                            <use filter="url(#filter-30)" xlink:href="#text-29"></use>
+                            <use xlink:href="#text-29"></use>
+                        </g>
+                        <g id="13">
+                            <use filter="url(#filter-32)" xlink:href="#text-31"></use>
+                            <use xlink:href="#text-31"></use>
+                        </g>
+                        <g id="14">
+                            <use filter="url(#filter-34)" xlink:href="#text-33"></use>
+                            <use xlink:href="#text-33"></use>
+                        </g>
+                        <g id="15">
+                            <use filter="url(#filter-36)" xlink:href="#text-35"></use>
+                            <use xlink:href="#text-35"></use>
+                        </g>
+                        <g id="16">
+                            <use filter="url(#filter-38)" xlink:href="#text-37"></use>
+                            <use xlink:href="#text-37"></use>
+                        </g>
+                        <g id="17">
+                            <use filter="url(#filter-40)" xlink:href="#text-39"></use>
+                            <use xlink:href="#text-39"></use>
+                        </g>
+                        <g id="18">
+                            <use filter="url(#filter-42)" xlink:href="#text-41"></use>
+                            <use xlink:href="#text-41"></use>
+                        </g>
+                        <g id="19">
+                            <use filter="url(#filter-44)" xlink:href="#text-43"></use>
+                            <use xlink:href="#text-43"></use>
+                        </g>
+                        <g id="20">
+                            <use filter="url(#filter-46)" xlink:href="#text-45"></use>
+                            <use xlink:href="#text-45"></use>
+                        </g>
+                    </g>
+                    <path d="M17.1607842,188.796684 C17.1607842,188.796684 52.3226393,195.453566 82.4547049,190.639332 C112.586771,185.825097 108.827573,183.175205 120.675071,172.409277 C132.52257,161.64335 156.469628,183.042329 182.208872,182.013495 C218.386148,180.567437 226.638292,170.254221 274.239879,135.705977 C321.841466,101.157732 339.348222,116.411892 374.195234,139.339295 C409.042246,162.266698 404.158253,146.758123 443.573602,148.082584 C482.988951,149.407046 508.990663,216.677723 570.286855,219.064747 C631.583047,221.451771 634.541887,60.0133697 674.446329,59.0593083 C714.350771,58.105247 705.952939,122.985159 734.691491,124.204861 C763.430043,125.424563 750.529781,212.098229 812.328941,215.312106 C874.128101,218.525983 878.210814,118.068937 924.740559,116.235643 C971.270303,114.402348 989.696277,248.9886 1045.34188,195.665925 C1100.98749,142.34325 1109.49997,202.723516 1117.58543,203.433107 C1125.6709,204.142699 1137,203.709972 1137,203.709972 L1137,231.422222 L1.68444444,231.422222 L1.68444444,194.004675 L13.2116181,190.268931 L17.1607842,188.796684 Z" id="Path-2" fill="#F4F6FC"></path>
+                    <path d="M1.68444444,187.892226 C1.68444444,187.892226 14.946277,184.897031 28.3043795,187.892226 C41.662482,190.887422 54.6459123,195.99566 80.8694928,191.943943 C107.093073,187.892226 108.696705,182.258071 120.545711,171.467866 C132.394718,160.677662 156.344824,182.124896 182.087344,181.093741 C218.269225,179.644423 226.522419,169.307951 274.130065,134.6818 C321.737711,100.05565 339.246695,115.344207 374.098142,138.323312 C408.94959,161.302416 404.064975,145.758869 443.485341,147.086317 C482.905707,148.413765 508.910729,215.836137 570.214723,218.228544 C631.518717,220.620951 634.477933,58.8185075 674.387454,57.8622948 C679.210848,57.7467286 683.328614,58.5949486 686.891601,60.1778379 M699.734747,70.5487189 C715.181247,85.0280501 716.414807,123.226269 736.239315,124.064375 C764.867299,125.27466 752.016669,211.27913 813.578066,214.468194 C875.139462,217.657257 879.206468,117.975826 925.557196,116.156686 C971.907924,114.337546 990.263006,247.884676 1045.69452,194.973698 C1101.12604,142.062721 1109.60578,201.976798 1117.66013,202.680911 C1125.71448,203.385024 1137,202.955638 1137,202.955638" id="Path-2" stroke="#2E5BFF" stroke-width="1.91525926"></path>
+                    <g id="select_info" transform="translate(704.097778, 38.699259)">
+                        <path d="M5.86044534,0.948215737 C5.86044534,0.424530646 6.28655766,0 6.82045956,0 L91.7054399,0 C92.2356411,0 92.6654541,0.435887166 92.6654541,0.958031296 L92.6654541,33.5166354 C92.6654541,34.0457414 92.2393418,34.4746667 91.7054399,34.4746667 L6.82045956,34.4746667 C6.29025835,34.4746667 5.86044534,34.0442368 5.86044534,33.5084179 L5.86044534,23.141625 L0.164169395,18.194963 L5.86044534,13.484669 L5.86044534,0.948215737 Z" id="Rectangle" fill="#EAEEFF" opacity="0.9"></path>
+                        <text id="March-12" fill="#000000" font-family="Rubik-Medium, Rubik" font-size="8.61866667" font-weight="400" letter-spacing="0.163754674">
+                            <tspan x="21.0144169" y="12.7881481">March 12</tspan>
+                        </text>
+                        <text id="45" fill="#2E5BFF" font-family="Rubik-Medium, Rubik" font-size="10.5339259" font-weight="400" letter-spacing="0.200144592">
+                            <tspan x="21.1702578" y="26.2797037">45</tspan>
+                        </text>
+                    </g>
+                    <circle id="Oval-2" stroke="#FFFFFF" stroke-width="3.59111111" fill="#2E5BFF" cx="689.831111" cy="65.2607407" r="12.7955556"></circle>
+                    <text id="replies-/-day" font-family="Rubik-Medium, Rubik" font-size="15" font-weight="400" fill="#000000">
+                        <tspan x="46.0970737" y="14">replies / day</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

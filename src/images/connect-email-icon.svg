@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="126px" viewBox="0 0 136 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.09" offset="55.135%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="75.00392%" y1="96.2876211%" x2="17.9211664%" y2="42.8281885%" id="linearGradient-2">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="53.514%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Agency-Onboarding" transform="translate(-45.000000, -77.000000)" fill-rule="nonzero">
+            <g id="Group-20">
+                <g id="Group-30" transform="translate(40.000000, 27.000000)">
+                    <g id="Group" transform="translate(5.000000, 50.000000)">
+                        <g id="Group-4" fill="#BFC5D2" opacity="0.153744">
+                            <g id="blob-shape-(1)" transform="translate(67.968800, 63.000000) scale(-1, 1) translate(-67.968800, -63.000000) translate(0.468800, 0.000000)">
+                                <path d="M124.160077,21.9796263 C133.243859,33.0427535 135.044655,50.1095273 134.726545,67.8176 C134.408436,85.5610182 128.623564,107.828655 113.5664,118.184873 C98.5092364,128.505745 74.1797818,126.950545 51.1698909,118.184873 C28.1246545,109.4192 6.91736619,102.647125 1.43882073,81.0863977 C-4.03972472,59.5256704 8.26811755,34.8807172 25.2339357,21.9796263 C42.1644085,9.1138808 63.0106182,-2.30778182 80.8954182,1.7216 C98.7448727,5.75098182 115.076295,10.8811535 124.160077,21.9796263 Z" id="Path"></path>
+                            </g>
+                        </g>
+                        <g id="undraw_Mail_sent_qwwx-(1)" transform="translate(17.000000, 11.000000)">
+                            <polygon id="Path" fill="#2E5BFF" points="15.8227848 51.8987342 0 33.9240506 47.3417722 0 94.6835443 33.9240506 78.6075949 51.8987342"></polygon>
+                            <polygon id="Path" fill="#514ABF" points="15.8227848 51.8987342 0 33.9240506 47.3417722 0 94.6835443 33.9240506 78.6075949 51.8987342"></polygon>
+                            <rect id="Rectangle" fill="#2E5BFF" x="0" y="36.2025316" width="92.4050633" height="40.3797468"></rect>
+                            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="36.2025316" width="92.4050633" height="40.3797468"></rect>
+                            <polygon id="Path" fill="#2E5BFF" points="94.6835443 91.0126582 0 91.0126582 0 33.9240506 47.3417722 62.5316456 94.6835443 33.9240506"></polygon>
+                            <polygon id="Path" stroke="#00D69B" points="72.5635443 7.08734177 45.9636709 41.7774684 31.1901266 30.4493671 23.4902532 40.4910127 43.2832911 55.6453165 48.3589873 59.4492405 82.6053165 14.7870886"></polygon>
+                            <polygon id="Path" fill="url(#linearGradient-2)" points="0.399113924 21.1243038 0.0226582278 21.3081013 0.0659493671 21.2311392 0.0329113924 21.2417722 0.0792405063 21.2074684 5.14594937 12.1907595 7.73594937 14.3991139 9.9578481 16.4562025 9.31987342 16.7677215 10.0370886 18.0327848"></polygon>
+                            <polygon id="Path" fill="#2E5BFF" points="7.47936709 14.6350633 9.51025316 16.5181013 0.305189873 21.0944304 5.20379747 14.8159494"></polygon>
+                            <polygon id="Path" fill="#000000" opacity="0.2" points="7.47936709 14.6350633 9.51025316 16.5181013 0.305189873 21.0944304 5.20379747 14.8159494"></polygon>
+                            <polygon id="Path" fill="#2E5BFF" points="5.11050633 12.6151899 0.305189873 21.0944304 7.47936709 14.6350633"></polygon>
+                            <polygon id="Path" fill="#2E5BFF" points="9.56949367 17.9759494 0.315063291 21.0329114 8.05113924 15.2581013"></polygon>
+                            <polygon id="Path" fill="#2E5BFF" points="86.9568354 4.90253165 84.9293671 8.41759494 99.7951899 10.8382278 90.2205063 4.17075949"></polygon>
+                            <polygon id="Path" fill="#000000" opacity="0.2" points="86.9568354 4.90253165 84.9293671 8.41759494 99.7951899 10.8382278 90.2205063 4.17075949"></polygon>
+                            <polygon id="Path" fill="#2E5BFF" points="89.3983544 1.04974684 99.7951899 10.8382278 86.9568354 4.90253165"></polygon>
+                            <polygon id="Path" fill="#2E5BFF" points="85.4777215 10.4836709 99.7546835 10.7564557 86.4264557 6.02227848"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

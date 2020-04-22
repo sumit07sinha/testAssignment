@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Sequences" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Sequences-09-Create-Sequence-Alt-Steps-filled" transform="translate(-528.000000, -549.000000)">
+            <g id="Group-2" transform="translate(129.000000, 530.000000)">
+                <g id="Group-27" transform="translate(399.000000, 19.000000)">
+                    <circle id="Oval" fill="#2E5BFF" cx="18.5" cy="18.5" r="18.5"></circle>
+                    <path d="M11.8,10 C10.801,10 10,10.801 10,11.8 L10,24.4 C10,25.399 10.801,26.2 11.8,26.2 L24.4,26.2 C25.399,26.2 26.2,25.399 26.2,24.4 L26.2,11.8 C26.2,10.801 25.399,10 24.4,10 L11.8,10 M11.8,11.8 L24.4,11.8 L24.4,24.4 L11.8,24.4 L11.8,11.8 M13.6,13.6 L13.6,15.4 L22.6,15.4 L22.6,13.6 L13.6,13.6 M13.6,17.2 L13.6,19 L22.6,19 L22.6,17.2 L13.6,17.2 M13.6,20.8 L13.6,22.6 L19.9,22.6 L19.9,20.8 L13.6,20.8 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

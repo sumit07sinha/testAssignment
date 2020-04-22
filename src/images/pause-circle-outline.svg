@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>pause-circle-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Prospects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-Prospects-02-list" transform="translate(-1067.000000, -372.000000)" fill="#F5A623" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(271.000000, 331.000000)">
+                <g id="Group-7" transform="translate(790.000000, 36.000000)">
+                    <g id="pause-circle-outline" transform="translate(6.000000, 5.000000)">
+                        <path d="M11,14 L11,6 L13,6 L13,14 L11,14 M7,14 L7,6 L9,6 L9,14 L7,14 M10,0 C12.6521649,-2.22044605e-16 15.195704,1.0535684 17.0710678,2.92893219 C18.9464316,4.80429597 20,7.3478351 20,10 C20,15.5228475 15.5228475,20 10,20 C7.3478351,20 4.80429597,18.9464316 2.92893219,17.0710678 C1.0535684,15.195704 -2.22044605e-16,12.6521649 -4.4408921e-16,10 C-1.77635684e-15,7.3478351 1.0535684,4.80429597 2.92893219,2.92893219 C4.80429597,1.0535684 7.3478351,0 10,-4.4408921e-16 M10,2 C5.581722,2 2,5.581722 2,10 C2,14.418278 5.581722,18 10,18 C12.1217319,18 14.1565632,17.1571453 15.6568542,15.6568542 C17.1571453,14.1565632 18,12.1217319 18,10 C18,5.581722 14.418278,2 10,2 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

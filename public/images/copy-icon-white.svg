@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>content-copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Prospects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-Prospects-03-Detail" transform="translate(-152.000000, -334.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(132.000000, 187.000000)">
+                <g id="Group-11" transform="translate(8.000000, 0.000000)">
+                    <g id="Button" transform="translate(0.000000, 137.000000)">
+                        <g id="content-copy" transform="translate(12.000000, 10.000000)">
+                            <path d="M10.0454545,11.8181818 L3.54545455,11.8181818 L3.54545455,3.54545455 L10.0454545,3.54545455 M10.0454545,2.36363636 L3.54545455,2.36363636 C2.89275439,2.36363636 2.36363636,2.89275439 2.36363636,3.54545455 L2.36363636,11.8181818 C2.36363636,12.470882 2.89275439,13 3.54545455,13 L10.0454545,13 C10.6981547,13 11.2272727,12.470882 11.2272727,11.8181818 L11.2272727,3.54545455 C11.2272727,2.89275439 10.6981547,2.36363636 10.0454545,2.36363636 M8.27272727,0 L1.18181818,0 C0.529118023,-6.56040878e-17 0,0.529118023 0,1.18181818 L0,9.45454545 L1.18181818,9.45454545 L1.18181818,1.18181818 L8.27272727,1.18181818 L8.27272727,0 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

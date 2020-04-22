@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>filter-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Agency/Clients/Team" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00-Dashboard-04-Vector-Agency-6" transform="translate(-1270.000000, -28.000000)" fill="#2E5BFF" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(960.000000, 0.000000)">
+                <g id="Group-7">
+                    <g id="filter-outline" transform="translate(309.000000, 28.000000)">
+                        <path d="M12,16.88 C12.04,17.18 11.94,17.5 11.71,17.71 C11.32,18.1 10.69,18.1 10.3,17.71 L6.29,13.7 C6.06,13.47 5.96,13.16 6,12.87 L6,7.75 L1.21,1.62 C0.87,1.19 0.95,0.56 1.38,0.22 C1.57,0.08 1.78,0 2,0 L16,0 C16.22,0 16.43,0.08 16.62,0.22 C17.05,0.56 17.13,1.19 16.79,1.62 L12,7.75 L12,16.88 M4.04,2 L8,7.06 L8,12.58 L10,14.58 L10,7.05 L13.96,2 L4.04,2 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

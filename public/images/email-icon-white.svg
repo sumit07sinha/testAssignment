@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="11px" viewBox="0 0 13 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>email-24px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Prospects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-Prospects-03-Detail" transform="translate(-309.000000, -298.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-9" transform="translate(132.000000, 187.000000)">
+                <g id="Group-11" transform="translate(8.000000, 0.000000)">
+                    <g id="Button" transform="translate(157.000000, 100.000000)">
+                        <g id="email-24px" transform="translate(12.000000, 11.000000)">
+                            <path d="M11.2734375,0.609375 L1.5234375,0.609375 C0.853125,0.609375 0.31078125,1.1578125 0.31078125,1.828125 L0.3046875,9.140625 C0.3046875,9.8109375 0.853125,10.359375 1.5234375,10.359375 L11.2734375,10.359375 C11.94375,10.359375 12.4921875,9.8109375 12.4921875,9.140625 L12.4921875,1.828125 C12.4921875,1.1578125 11.94375,0.609375 11.2734375,0.609375 Z M11.2734375,3.046875 L6.3984375,6.09375 L1.5234375,3.046875 L1.5234375,1.828125 L6.3984375,4.875 L11.2734375,1.828125 L11.2734375,3.046875 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
