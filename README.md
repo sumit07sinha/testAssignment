@@ -1,7 +1,7 @@
 **  To run the app follow steps below:
 - clone repository.
-- npm install in command prompt to install node packages.
-- npm start to start the server.
+- run npm install in command prompt to install node packages.
+- run npm start to start the server.
 - switch to http://localhost:3000/# in the browser
 
 
